@@ -1,0 +1,232 @@
+.container{
+    position: relative;
+    height:900px; 
+    width: 100%;
+    
+  
+
+}
+.btn-group{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    
+    
+}
+.btn{
+   color: white;
+}
+
+a:link{
+   text-decoration: none;
+  
+  font-size: larger;
+  color: rgb(42, 0, 192);
+
+}
+.box{
+   position: absolute;
+   top: 10%;
+   left: 80%;
+   transform: translate(-50%,-50%);
+   background-color: rgba(0, 0, 0, 0.6);
+   padding: 30px;
+   border-radius: 10px;
+}
+
+
+
+#bv{
+    font-size: 100px;
+    
+    
+}
+.playercentral{
+    position: absolute;
+   
+    top: 50%;
+    left: 47%;
+
+}
+.centro{
+    position: absolute;
+    top: 34%;
+    left: 34%;
+    transition: translate(-50%,-50%);
+    text-align: center;
+    font-size: 60px;
+    font-family:Impact;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px rgb(82, 0, 175);
+    
+}
+body{
+    background-color: rgb(233, 232, 232);
+}
+
+
+.anuncio{
+    position: absolute;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.651);
+    background-color:rgb(42, 0, 192) ;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    color: rgb(255, 255, 255);
+    height: 10%;
+    width: 100%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top: 97%;
+    margin-left: -0.9%;
+    padding-top: 2%;
+
+}
+.destaque2{
+   
+    text-align: center;
+}
+
+.conteiner2{
+    
+    position: relative;
+    height:450px ;
+    width: 100%;
+    
+}
+.logo1{
+    position: absolute;
+    top: 30%;
+    left: 18%;
+    transition: translate(-50%,-50%);
+}
+ .logo2{
+    position: absolute;
+    top: 30%;
+    left: 42%;
+    transition: translate(-50%,-50%);
+ }
+ .logo3{
+    position: absolute;
+    top: 30%;
+    left: 62%;
+    transition: translate(-50%,-50%);
+ }
+ .gradiente{
+    position: relative;
+    background-image:linear-gradient(to bottom,rgba(255, 255, 255, 0),rgb(42, 0, 192));
+    height: 150px;
+    width: 100%;
+    bottom: 3%;
+    left: 0%;
+    
+ }
+ .player{
+    position: relative;
+    height: 700px;
+    width: 100%;
+   background-color: rgb(233, 232, 232);
+    
+ }
+ .titulo2{
+    text-align: center;
+    color: rgb(19, 148, 47);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 3px;
+ }
+ .card{
+    position: absolute;
+    top: 15%;
+    left:10%;
+ }
+
+ #card2{
+    position: absolute;
+    top: 23%;
+    left:30%;
+   
+ }
+ #card3{
+    position: absolute;
+    top: 23%;
+    left:50%;
+   
+ }
+ #card4{
+    position: absolute;
+    top: 23%;
+    left:70%;
+   
+ }
+
+ /* REFERENTE A PÁGINA DO PLAYER */
+
+
+ .menu2{
+
+   left: 45%;
+ }
+
+ .playervideo{
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.089);
+    height:1000px; 
+    width:100%;
+   
+    margin-top: -60px;
+ }
+ .exibicao{
+    position: absolute;
+    background-color:black;
+    height: 45%;
+    width: 43%;
+    left: 30%;
+     top: 25%;
+
+ }
+ #direcionador{
+   position: absolute;
+   top: 40%;
+   left:45%;
+ }
+
+ .descricao{
+   position: relative;
+   color: rgb(19, 148, 47);
+   top: 70%;
+   left: 30%;
+   font-size: 25px;
+ }
+ .publicidade1{
+    position:absolute;
+    height: 70%;
+    width: 13%;
+    background-color: aqua;
+    top: 25%;
+    left: 10%;
+ }
+ .publicidade2{
+    position:absolute;
+    height: 70%;
+    width: 13%;
+    background-color: rgb(152, 255, 18);
+    top: 25%;
+    left: 80%;
+ }
+
+
+
+ /* REFERENTE A RESPONSIVIDADE DO SITE */
+
+
+
+
+ /*REFERENTE AO PROJETO1*/
+
+
+    
+    
+
+
+
+ 
+ 
