@@ -111,7 +111,7 @@ $logado = $_SESSION['email'];
             <div class="card-body">
               <h5 class="card-title">Real Madrid x Barcelona</h5>
               <p class="card-text">31/02/2077 às 16:00 hrs</p>
-              <a href="#" class="btn btn-primary">assistir</a>
+              <a href="pagina1.php" class="btn btn-primary">assistir</a>
             </div>
           </div>
         </div>
@@ -120,7 +120,7 @@ $logado = $_SESSION['email'];
             <div class="card-body">
               <h5 class="card-title">Lakers vs GSW</h5>
               <p class="card-text">31/02/2077 às 23:00 hrs</p>
-              <a href="#" class="btn btn-primary">assistir</a>
+              <a href="pagina1.php" class="btn btn-primary">assistir</a>
             </div>
           </div>
         <div id="card3" class="card" style="width: 250px;height: 300px;">
@@ -128,7 +128,7 @@ $logado = $_SESSION['email'];
             <div class="card-body">
               <h5 class="card-title">Vasco vs Botafogo</h5>
               <p class="card-text">31/02/2077 às 20:00 hrs</p>
-              <a href="#" class="btn btn-primary">assistir</a>
+              <a href="pagina1.php" class="btn btn-primary">assistir</a>
             </div>
           </div>
         <div id="card4" class="card" style="width: 250px;height: 300px;">
@@ -136,7 +136,7 @@ $logado = $_SESSION['email'];
             <div class="card-body">
               <h5 class="card-title">FLA vs FLU </h5>
               <p class="card-text">31/02/2077 às 17:00 hrs</p>
-              <a href="#" class="btn btn-primary">assistir</a>
+              <a href="pagina1.php" class="btn btn-primary">assistir</a>
             </div>
           </div>
     

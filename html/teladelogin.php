@@ -48,7 +48,7 @@
 <body>
 <br>
         <div class="d-flex" style="position:absolute; left:40%; top:80%;" >
-        <a href="../projeto.php" class="btn " style="background-color: #fff;">Ir para pagina inicial.</a>
+        <a href="/projeto.php" class="btn " style="background-color: #fff;">Ir para pagina inicial.</a>
       </div>
       <div class="d-flex" style="position:absolute; left:50%; top:80%;" >
         <a href="../html/cadastro.php" class="btn " style="background-color:rgb(0, 92, 197); color:#fff">Não tenho conta!</a>
